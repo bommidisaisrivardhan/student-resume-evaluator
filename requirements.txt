@@ -1,6 +1,5 @@
 streamlit
 PyMuPDF
 scikit-learn
-numpy
-spacy
 fpdf
+language-tool-python
